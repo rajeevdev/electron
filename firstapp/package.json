@@ -1,0 +1,14 @@
+{
+  "name": "firstapp",
+  "version": "1.0.0",
+  "description": "First electron application",
+  "main": "index.js",
+  "scripts": {
+    "start": "electron ."
+  },
+  "author": "Rajeev Dev",
+  "license": "MIT",
+  "dependencies": {
+    "electron": "^4.0.2"
+  }
+}
